@@ -5,6 +5,7 @@
 
 Thanks for visiting!
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micas2002&theme=gotham&show_icons=true)
 <!--
 **micas2002/micas2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
