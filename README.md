@@ -1,4 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/micas2002)
 ### Hi there 👋, I'm Miguel
 - 🌱 I’m a student at 42 Lisboa learning a lot about software development
 - 👀 I'm really curious about the gaming development world and it's probably my carrer path aim  
